@@ -6,7 +6,7 @@ attrs==21.2.0
 autobahn==0.15.0
 Automat==20.2.0
 billiard==3.3.0.23
-celery==3.1.23
+celery==4.4.0rc5
 certifi==2019.11.28
 cffi==1.14.5
 channels==0.17.0
@@ -27,7 +27,7 @@ msgpack-python==0.4.7
 olefile==0.46
 openvas-lib==1.1.4
 pdfkit==0.6.1
-Pillow==6.2.1
+Pillow==10.2.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycairo==1.16.2
